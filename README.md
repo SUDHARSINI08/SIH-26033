@@ -138,6 +138,7 @@ Working Methodology:
 
 System Workflow
 FARMER → PRODUCT REGISTRATION → AI MARKET ANALYSIS → FAIR PRICE RECOMMENDATION → BUYER MATCHING → COLLECTIVE ORDERING → SMART LOGISTICS → DELIVERY → PAYMENT.
+<img width="1536" height="1024" alt="AgroBridge 360 Smart Farming Ecosystem" src="https://github.com/user-attachments/assets/086842e7-ad2e-4921-b977-b41414628f9d" />
 
 
 ## Feasibility and Viability
